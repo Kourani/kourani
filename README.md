@@ -1,11 +1,10 @@
 ### Hi there 👋 I'm Malak 
 
 Reach out to me 
-
-![download](https://github.com/Kourani/kourani/assets/111401250/16f21437-f308-4223-9fd5-7c0e4d11f663)
-
-
-[Malak Kourani](https://www.linkedin.com/in/malakkourani/)
+[![invisible description of images, read aloud to blind users
+](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8tOrs3vTGPNgx_tpb8daohHzWBCLvV7rB2i1gzWM&usqp=CAE&s
+)
+](https://www.linkedin.com/in/malakkourani/)
 
 
 <!--
