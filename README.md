@@ -1,7 +1,9 @@
 ### Hi there 👋 Im Malak 
 
 Reach out to me 
-https://www.linkedin.com/in/malakkourani/ 
+
+
+[https://www.linkedin.com/in/malakkourani/](/uri "LinkedIn: Malak Kourani")
 
 <!--
 **Kourani/kourani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
