@@ -1,9 +1,12 @@
-### Hi there 👋 Im Malak 
+### Hi there 👋 I'm Malak 
 
 Reach out to me 
 
+![download](https://github.com/Kourani/kourani/assets/111401250/16f21437-f308-4223-9fd5-7c0e4d11f663)
 
-[https://www.linkedin.com/in/malakkourani/](/uri "LinkedIn: Malak Kourani")
+
+[Malak Kourani](https://www.linkedin.com/in/malakkourani/)
+
 
 <!--
 **Kourani/kourani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
