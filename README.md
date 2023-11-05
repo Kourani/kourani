@@ -10,11 +10,9 @@ Reach out to me !
 ](https://www.linkedin.com/in/malakkourani/)
 
 Scan the QR Code below to find out more about me
+
+
 ![QR](https://github.com/Kourani/kourani/assets/111401250/bfea275d-b96d-4741-a46d-91a22f8d585e)
-
- Feel free to check out some of the full stack applications I've worked on 
- 
-
 
 <!--
 **Kourani/kourani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
