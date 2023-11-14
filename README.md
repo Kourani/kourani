@@ -11,11 +11,11 @@ Reach out to me at kourani@umich.edu !
 
 Experience with 
 
-![Python-Light](https://github.com/Kourani/kourani/assets/111401250/530e8972-2a41-4227-ac68-026fd300794c)
-![React-Dark](https://github.com/Kourani/kourani/assets/111401250/b25a0c9f-f53b-4de7-b6a2-6f19bc97eaec)
-![JavaScript](https://github.com/Kourani/kourani/assets/111401250/c268abb0-491a-4372-9ad0-e2d40244900c)
-![HTML](https://github.com/Kourani/kourani/assets/111401250/a07e9d85-390b-4cd4-a83e-2d0c8ba2f846)
-![CSS](https://github.com/Kourani/kourani/assets/111401250/70eb4027-3dd2-4ddc-ae14-8ac47299202d)
+![Python-Light](https://github.com/Kourani/kourani/assets/111401250/530e8972-2a41-4227-ac68-026fd300794c?width=300&height=200)
+![React-Dark](https://github.com/Kourani/kourani/assets/111401250/b25a0c9f-f53b-4de7-b6a2-6f19bc97eaec?width=300&height=200)
+![JavaScript](https://github.com/Kourani/kourani/assets/111401250/c268abb0-491a-4372-9ad0-e2d40244900c?width=300&height=200)
+![HTML](https://github.com/Kourani/kourani/assets/111401250/a07e9d85-390b-4cd4-a83e-2d0c8ba2f846?width=300&height=200)
+![CSS](https://github.com/Kourani/kourani/assets/111401250/70eb4027-3dd2-4ddc-ae14-8ac47299202d?width=300&height=200)
 
 
 Scan the QR Code below to find out more about me and some of the amazing projects I have had the opportunity to work on 
