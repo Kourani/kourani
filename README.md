@@ -9,6 +9,11 @@ Reach out to me at kourani@umich.edu !
 )
 ](https://www.linkedin.com/in/malakkourani/)
 
+Experience in 
+
+![python](https://github.com/Kourani/kourani/assets/111401250/0a979896-9244-4271-b769-78c57cb2b0c5)
+
+
 Scan the QR Code below to find out more about me and some of the amazing projects I have had the opportunity to work on 
 
 
