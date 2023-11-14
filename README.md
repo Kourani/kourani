@@ -18,6 +18,8 @@ A few of the languages I have experience in include
 ![CSS](https://github.com/Kourani/kourani/assets/111401250/70eb4027-3dd2-4ddc-ae14-8ac47299202d?width=300&height=200)
 
 
+
+
 Scan the QR Code below to find out more about me and some of the amazing projects I have had the opportunity to work on 
 ![QR](https://github.com/Kourani/kourani/assets/111401250/bfea275d-b96d-4741-a46d-91a22f8d585e)
 
