@@ -9,7 +9,7 @@ Reach out to me at kourani@umich.edu !
 )
 ](https://www.linkedin.com/in/malakkourani/)
 
-Experience with 
+A few of the languages I have experience in include 
 
 ![Python-Light](https://github.com/Kourani/kourani/assets/111401250/530e8972-2a41-4227-ac68-026fd300794c?width=300&height=200)
 ![React-Dark](https://github.com/Kourani/kourani/assets/111401250/b25a0c9f-f53b-4de7-b6a2-6f19bc97eaec?width=300&height=200)
