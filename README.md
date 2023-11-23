@@ -1,6 +1,6 @@
 ### Welcome to my GitHub !
 
-My name is Malak Kourani, I a full stack software engineer with a strong foundation in data management and engineering principles. Currently pursuing an MBA to elevate my leadership and critical thinking abilities. Fluent in English and Arabic, adept at conveying complex ideas effectively. Seeking opportunities to contribute my skills in a part-time or full-time engineering role.
+My name is Malak Kourani, a full stack software engineer with a strong foundation in data management and engineering principles. Currently pursuing an MBA to elevate my leadership and critical thinking abilities. Fluent in English and Arabic, adept at conveying complex ideas effectively. Seeking opportunities to contribute my skills in a part-time or full-time engineering role.
 
 Reach out to me at kourani@umich.edu !
 
