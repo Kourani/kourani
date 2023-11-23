@@ -35,6 +35,8 @@ Experience with the following applications & languages
 ## Projects
 * [Live site: Interact](https://interact-rntr.onrender.com)
 * [Live site: Jeanak Eats](https://jeanak-eats.onrender.com)
+* [Live site: Jeanak Eats](https://airbnb-tay2.onrender.com)
+
 
 ## Personal Portfolio
 Click this link [Malak Kourani](https://kourani.github.io/) or scan the QR Code below to find out more about me and the amazing projects I have worked on 
