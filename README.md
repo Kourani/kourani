@@ -9,8 +9,8 @@ Reach out to me at kourani@umich.edu !
 )
 ](https://www.linkedin.com/in/malakkourani/)
 
+##Technologies
 Experience with the following applications & languages 
-
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -30,16 +30,12 @@ Experience with the following applications & languages
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
+##Projects
+[Live site: Interact](https://interact-rntr.onrender.com)
+[Live site: Jeanak Eats](https://jeanak-eats.onrender.com)
 
-
-
-
-
-
-<p>                 </p>
-
+##Personal Portfolio
 Click this link [Malak Kourani](https://kourani.github.io/) or scan the QR Code below to find out more about me and the amazing projects I have worked on 
-
 <code><img height="250" src="https://user-images.githubusercontent.com/111401250/280554929-bfea275d-b96d-4741-a46d-91a22f8d585e.png"></code>
 
 
