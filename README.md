@@ -33,7 +33,9 @@ Experience with the following applications & languages
 
 
 
-Scan the QR Code below to find out more about me and some of the amazing projects I have had the opportunity to work on 
+Click this link https://kourani.github.io/
+or scan the QR Code below 
+to find out more about me and some of the amazing projects I have had the opportunity to work on 
 
 <code><img height="250" src="https://user-images.githubusercontent.com/111401250/280554929-bfea275d-b96d-4741-a46d-91a22f8d585e.png"></code>
 
