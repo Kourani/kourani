@@ -36,7 +36,7 @@ Experience with the following applications & languages
 
 
 
-<p></p>
+<p>                 </p>
 
 Click this link [Malak Kourani](https://kourani.github.io/) or scan the QR Code below to find out more about me and the amazing projects I have worked on 
 
