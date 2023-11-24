@@ -39,7 +39,9 @@ Experience with the following applications & languages
 
 
 ## Personal Portfolio
-Click this link [Malak Kourani](https://kourani.github.io/) or scan the QR Code below to find out more about me and the amazing projects I have worked on 
+Click this link [Malak Kourani](https://kourani.github.io/) or scan the QR Code below to find out more about me and the amazing projects I have worked on
+
+
 <code><img height="250" src="https://user-images.githubusercontent.com/111401250/280554929-bfea275d-b96d-4741-a46d-91a22f8d585e.png"></code>
 
 
