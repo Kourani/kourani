@@ -35,7 +35,8 @@ Experience with the following applications & languages
 ## Projects
 * [Live site: Interact](https://interact-rntr.onrender.com)
 * [Live site: Jeanak Eats](https://jeanak-eats.onrender.com)
-* [Live site: Jeanak Eats](https://airbnb-tay2.onrender.com)
+* [Live site: Car Bnb](https://airbnb-tay2.onrender.com)
+
 
 
 ## Personal Portfolio
